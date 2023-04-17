@@ -1,0 +1,12 @@
+<resources>
+        <string name="app_name">ElvisMail</string>
+        <string name="Titulo">ElvisMail</string>
+        <string name="txtnombre">Nombre Completo:</string>
+        <string name="txtcorreo">E-mail:</string>
+        <string name="txtelefono">Teléfono:</string>
+        <string name="txtciudad">Ciudad:</string>
+        <string name="txtedad">Edad:</string>
+        <string name="txtestado">Estado:</string>
+        <string name="btnregistrar">Registrar</string>
+        <string name="btnconsultar">Consultar</string>
+</resources>
